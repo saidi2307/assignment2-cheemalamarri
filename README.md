@@ -17,3 +17,4 @@ cricket taught me how to stay **patient** at times,to make **strategies**,applic
 - Kolkata Knight Riders
 - Sun Risers Hyderabad
 
+[click this link to view my profile](https://github.com/saidi2307/assignment2-cheemalamarri/blob/main/AboutMe.md)
