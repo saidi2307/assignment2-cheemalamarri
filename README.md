@@ -39,3 +39,28 @@ This table contain the countries that i would recommend for the people willing t
 > A Lion chased me up a tree, and I greatly enjoyed the view from the top
 -*Robert Wilde*
 
+-----
+
+## Code Fencing
+
+[Link to Sass](https://css-tricks.com/snippets/sass/deep-getset-maps/)
+
+```
+$o-grid-default-config: (
+    columns: 12,
+    gutter: 10px,
+    min-width: 240px,
+    max-width: 1330px,
+    layouts: (
+        S:  370px,  // ≥20px columns
+        M:  610px,  // ≥40px columns
+        L:  850px,  // ≥60px columns
+        XL: 1090px  // ≥80px columns
+    ),
+    fluid: true,
+    debug: false,
+    fixed-layout: M,
+    enhanced-experience: true
+);
+```
+[Link to Stackoverflow](https://github.com/sass/sass/issues/3249)
