@@ -63,4 +63,4 @@ $o-grid-default-config: (
     enhanced-experience: true
 );
 ```
-[Link to Stackoverflow](https://github.com/sass/sass/issues/3249)
+[Link to Stackoverflow](https://stackoverflow.com/questions/tagged/sass)
