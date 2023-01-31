@@ -29,3 +29,13 @@ This table contain the countries that i would recommend for the people willing t
 |South Africa| amazing forests            | 26         |
 |Kirgistan   | amazing land views         |15          |
 |Switzerland | beautiful nature           | 20         |
+
+----
+
+## Have Fun
+> Ithink that God,in creating man,Somewhat overestimated his ability
+-*Oscar Wilde*
+
+> A Lion chased me up a tree, and I greatly enjoyed the view from the top
+-*Robert Wilde*
+
