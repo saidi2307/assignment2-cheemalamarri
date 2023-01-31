@@ -11,3 +11,9 @@ cricket taught me how to stay **patient** at times,to make **strategies**,applic
 2. Sachin Tendulkar
 3. Kieron Pollard
 
+### other ipl teams to watch
+
+- Chennai Super Kings
+- Kolkata Knight Riders
+- Sun Risers Hyderabad
+
