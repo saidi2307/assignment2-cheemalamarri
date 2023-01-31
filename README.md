@@ -7,7 +7,7 @@ cricket taught me how to stay **patient** at times,to make **strategies**,applic
 ## Favourite IPL Team
 ### Mumbai Indians
 
-1.Rohit Sharma
-2.Sachin Tendulkar
-3.Kieron Pollard
+1. Rohit Sharma
+2. Sachin Tendulkar
+3. Kieron Pollard
 
