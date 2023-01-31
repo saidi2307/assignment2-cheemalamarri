@@ -18,3 +18,14 @@ cricket taught me how to stay **patient** at times,to make **strategies**,applic
 - Sun Risers Hyderabad
 
 [click this link to view my profile](https://github.com/saidi2307/assignment2-cheemalamarri/blob/main/AboutMe.md)
+
+----
+
+## Favourite Countries
+This table contain the countries that i would recommend for the people willing to travel.This table also contains no of days required to explore the place.
+
+| Country    |          Reason            | No of days |
+|-------     |-------------------------   | ---------- |
+|South Africa| amazing forests            | 26         |
+|Kirgistan   | amazing land views         |15          |
+|Switzerland | beautiful nature           | 20         |
