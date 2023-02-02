@@ -43,7 +43,7 @@ This table contain the countries that i would recommend for the people willing t
 
 ## Code Fencing
 
-[Link to Sass](https://css-tricks.com/snippets/sass/deep-getset-maps/)
+> [Link to Sass](https://css-tricks.com/snippets/sass/deep-getset-maps/)
 
 ```
 $o-grid-default-config: (
